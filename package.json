@@ -1,0 +1,17 @@
+{
+  "name": "breathe-counter",
+  "version": "1.0.0",
+  "scripts": {
+    "breathe": "nbb -m breathe",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "nbb": "^1.3.196"
+  },
+  "dependencies": {
+    "execa": "^9.5.2"
+  }
+}
